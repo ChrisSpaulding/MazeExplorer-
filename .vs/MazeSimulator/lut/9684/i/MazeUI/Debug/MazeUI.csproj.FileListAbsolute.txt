@@ -1,0 +1,15 @@
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\b\MazeUI\bin\Debug\MazeUI.exe.config
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\b\MazeUI\bin\Debug\MazeUI.exe
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\b\MazeUI\bin\Debug\MazeUI.pdb
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeUI\Debug\MainWindow.g.cs
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeUI\Debug\App.g.cs
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeUI\Debug\MazeUI_MarkupCompile.cache
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeUI\Debug\MazeUI_MarkupCompile.lref
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeUI\Debug\MainWindow.baml
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeUI\Debug\MazeUI.g.resources
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeUI\Debug\MazeUI.Properties.Resources.resources
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeUI\Debug\MazeUI.csproj.GenerateResource.cache
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeUI\Debug\MazeUI.csproj.CoreCompileInputs.cache
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeUI\Debug\MazeUI.csproj.CopyComplete
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeUI\Debug\MazeUI.exe
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeUI\Debug\MazeUI.pdb

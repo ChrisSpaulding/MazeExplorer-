@@ -1,0 +1,6 @@
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\b\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\b\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeSimulator\Debug\MazeSimulator.csprojAssemblyReference.cache
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeSimulator\Debug\MazeSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeSimulator\Debug\MazeSimulator.csproj.CopyComplete
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeSimulator\Debug\ConsoleApp2.exe

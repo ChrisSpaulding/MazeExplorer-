@@ -1,0 +1,14 @@
+﻿ToDo:
+
+move this project to Github
+take a text file as a maze template
+	White space is a path 
+	Any character other than S and G is a wall
+	S (Start) is the starting position
+	G (Goal) is the winning position
+	
+
+Create web front end with rest service
+	Create Multiple front ends that all point to the base code. 
+	I could start witha simple Windows GUI to get the logic correct
+

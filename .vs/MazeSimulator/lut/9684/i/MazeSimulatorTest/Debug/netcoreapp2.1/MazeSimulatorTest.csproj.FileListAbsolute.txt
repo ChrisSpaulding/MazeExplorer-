@@ -1,0 +1,14 @@
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\b\MazeSimulatorTest\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\b\MazeSimulatorTest\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\b\MazeSimulatorTest\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\b\MazeSimulatorTest\Debug\netcoreapp2.1\MazeSimulatorTest.dll.config
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\b\MazeSimulatorTest\Debug\netcoreapp2.1\MazeSimulatorTest.deps.json
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\b\MazeSimulatorTest\Debug\netcoreapp2.1\MazeSimulatorTest.runtimeconfig.json
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\b\MazeSimulatorTest\Debug\netcoreapp2.1\MazeSimulatorTest.runtimeconfig.dev.json
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\b\MazeSimulatorTest\Debug\netcoreapp2.1\MazeSimulatorTest.dll
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeSimulatorTest\Debug\netcoreapp2.1\MazeSimulatorTest.csprojAssemblyReference.cache
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeSimulatorTest\Debug\netcoreapp2.1\MazeSimulatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeSimulatorTest\Debug\netcoreapp2.1\MazeSimulatorTest.AssemblyInfoInputs.cache
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeSimulatorTest\Debug\netcoreapp2.1\MazeSimulatorTest.AssemblyInfo.cs
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeSimulatorTest\Debug\netcoreapp2.1\MazeSimulatorTest.csproj.CopyComplete
+C:\Users\Spauldch\source\repos\ConsoleApp2\.vs\MazeSimulator\lut\0\i\MazeSimulatorTest\Debug\netcoreapp2.1\MazeSimulatorTest.dll
